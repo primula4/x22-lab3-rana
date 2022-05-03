@@ -3,5 +3,7 @@ body {
 }
 
 #items .completetrue {
-    color: lightcoral;
+    color: rgb(128, 128, 240);
+    background-color: aqua;
+    background: fixed;
 }
